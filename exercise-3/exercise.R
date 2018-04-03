@@ -8,7 +8,7 @@ add_three <- function(x) {
 # Create a variable `ten` that is the result of passing 7 to your `add_three` 
 # function
 ten <- add_three(7)
-ten
+ten 
 
 # Define a function `imperial_to_metric` that takes in two arguments: a number 
 # of feet and a number of inches
